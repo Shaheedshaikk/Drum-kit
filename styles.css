@@ -90,13 +90,12 @@ footer {
 
 @media  screen and (max-width: 600px) {
  .drum{
-  height: 50px;
   font-size: xx-large;
   width: 100px;
  }
 
  body{
-  height: 91vh;
+  height: auto;
  }
 
  #title{
